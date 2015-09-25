@@ -1,0 +1,37 @@
+/*
+Theme Name: jQeury.steps Registration Demo
+Theme URI: https://github.com/jvining/jQuery-Steps-Registration-Form
+Author: Joshua Vining
+Author URI: https://github.com/jvining
+Description: Bootstrap & jQuery Steps Registration Form Proof of Concept
+Version: 1.0
+Copyright: Joshua Vining
+Tags: Bootstrap, jQuery Steps
+*/
+
+body {text-rendering:optimizeLegibility; background:#fbfbfb; padding-top:50px; font-family: 'Raleway', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';}
+h1,h2,h3,h4,h5{font-weight:300;}
+[class*="col-"]{color:#666;}
+
+
+.voffset  {margin-top: 2px;}   .voffset1 {margin-top: 5px;} 
+.voffset2 {margin-top: 10px;}  .voffset3 {margin-top: 15px;} 
+.voffset4 {margin-top: 30px;}  .voffset5 {margin-top: 40px;} 
+.voffset6 {margin-top: 60px;}  .voffset7 {margin-top: 80px;} 
+.voffset8 {margin-top: 100px;} .voffset9 {margin-top: 150px;} 
+
+body>.container{margin-top:35px;}
+.wizard > .content {min-height:35em!important;}
+
+footer {margin: 50px 0;}
+
+/* col-xs-* */
+@media only screen and (min-width :320px){}
+/* col-xs-* */                            
+@media only screen and (min-width :480px){}
+/* col-sm-* */                            
+@media only screen and (min-width :768px){}
+/* col-md-* */                            
+@media only screen and (min-width :992px){}
+/* col-lg-* */
+@media only screen and (min-width :1200px){}
